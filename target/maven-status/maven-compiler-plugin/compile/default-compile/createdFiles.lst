@@ -1,0 +1,12 @@
+br\com\idrugapi\idrug\api\Produto\Produto.class
+br\com\idrugapi\idrug\api\usuarios\UsuarioResource.class
+br\com\idrugapi\idrug\api\Produto\ProdutoResource.class
+br\com\idrugapi\idrug\api\usuarios\PermissaoAceita.class
+br\com\idrugapi\idrug\api\resources\HelloWorldResource.class
+br\com\idrugapi\idrug\api\JAXRSConfiguration.class
+br\com\idrugapi\idrug\api\resources\JavaEE8Resource.class
+br\com\idrugapi\idrug\api\usuarios\Usuario.class
+br\com\bookstore\api\NewCrossOriginResourceSharingFilter.class
+br\com\idrugapi\idrug\api\farmacia\Farmacia.class
+br\com\idrugapi\idrug\api\usuarios\PermissaoResource.class
+br\com\idrugapi\idrug\api\farmacia\FarmaciaResouce.class
